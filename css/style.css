@@ -1,0 +1,41 @@
+
+
+body{
+    background-color: #24353F;
+}
+.contant{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+    background-color: #24353F;
+
+}
+.contant h1{
+    color: #17A2B8;
+    font-weight: 200;
+}
+.form-control{
+    background-color: #24353F !important;
+}
+.form-control{
+    color: #fff !important;
+
+}
+.form-control::placeholder{
+    color: #aaacae;
+}
+.contant p{
+    color: #DC3542;
+}
+.desc{
+    color: #fff !important;
+}
+.desc a{
+    color: #fff !important;
+    text-decoration: none;
+}
+.desc a:hover{
+    color: #fff !important;
+    border-bottom:1px solid #fff ;
+}
+#descInput{
+    color: green !important;
+}
