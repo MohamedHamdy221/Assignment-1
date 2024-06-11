@@ -23,7 +23,7 @@ function chackData(){
         incorrect.classList.add('d-none')
         // alert(`welcom   ${ prodecteList[ueserName].name}`)
         localStorage.setItem("ueserName",JSON.stringify(prodecteList[ueserName].name))
-       window.location.assign('/home.html')
+       window.location.assign('/Assignment-1/home.html')
     }
     else{
         incorrect.classList.remove('d-none')
