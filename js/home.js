@@ -9,5 +9,5 @@ if(JSON.parse(localStorage.getItem('ueserName'))!==null){
 prodectueserName.innerHTML=`Welcom ${ueserName}`
 
 btn.onclick=function(){
-    window.location.assign('/index.html')
+    window.location.assign('/Assignment-1/index.html')
 }
